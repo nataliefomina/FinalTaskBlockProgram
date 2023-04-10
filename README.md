@@ -11,6 +11,6 @@
 Переменная count чтобы поочередно закидывать из первого массива во второй.
 После присвоения увеличивается переменная count на 1 и возвращается к циклу for в котором i увеличивается на 1. И так проверяется до конца.
 
-Схема метода в корне папки - FinalTaskBlockProgram/SchemeMethod.png
+Схема метода в корне папки - FinalTaskProgram/SchemeMethod.png
 
-Программа, решающая задачу в корне папки - FinalTaskBlockProgram/Program.cs
+Программа, решающая задачу в корне папки - FinalTaskProgram/Program.cs
