@@ -1,0 +1,15 @@
+D:\курсы\GeekBrains програмирования\FinalTaskBlockProgram\bin\Debug\net6.0\FinalTaskBlockProgram.exe
+D:\курсы\GeekBrains програмирования\FinalTaskBlockProgram\bin\Debug\net6.0\FinalTaskBlockProgram.deps.json
+D:\курсы\GeekBrains програмирования\FinalTaskBlockProgram\bin\Debug\net6.0\FinalTaskBlockProgram.runtimeconfig.json
+D:\курсы\GeekBrains програмирования\FinalTaskBlockProgram\bin\Debug\net6.0\FinalTaskBlockProgram.dll
+D:\курсы\GeekBrains програмирования\FinalTaskBlockProgram\bin\Debug\net6.0\FinalTaskBlockProgram.pdb
+D:\курсы\GeekBrains програмирования\FinalTaskBlockProgram\obj\Debug\net6.0\FinalTaskBlockProgram.csproj.AssemblyReference.cache
+D:\курсы\GeekBrains програмирования\FinalTaskBlockProgram\obj\Debug\net6.0\FinalTaskBlockProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\курсы\GeekBrains програмирования\FinalTaskBlockProgram\obj\Debug\net6.0\FinalTaskBlockProgram.AssemblyInfoInputs.cache
+D:\курсы\GeekBrains програмирования\FinalTaskBlockProgram\obj\Debug\net6.0\FinalTaskBlockProgram.AssemblyInfo.cs
+D:\курсы\GeekBrains програмирования\FinalTaskBlockProgram\obj\Debug\net6.0\FinalTaskBlockProgram.csproj.CoreCompileInputs.cache
+D:\курсы\GeekBrains програмирования\FinalTaskBlockProgram\obj\Debug\net6.0\FinalTaskBlockProgram.dll
+D:\курсы\GeekBrains програмирования\FinalTaskBlockProgram\obj\Debug\net6.0\refint\FinalTaskBlockProgram.dll
+D:\курсы\GeekBrains програмирования\FinalTaskBlockProgram\obj\Debug\net6.0\FinalTaskBlockProgram.pdb
+D:\курсы\GeekBrains програмирования\FinalTaskBlockProgram\obj\Debug\net6.0\FinalTaskBlockProgram.genruntimeconfig.cache
+D:\курсы\GeekBrains програмирования\FinalTaskBlockProgram\obj\Debug\net6.0\ref\FinalTaskBlockProgram.dll
